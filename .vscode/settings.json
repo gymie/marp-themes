@@ -1,0 +1,12 @@
+{
+  "markdown.marp.themes": [
+    "./themes/marp-laravel-theme.css",
+    "./themes/marp-aws-theme.css",
+    "./themes/marp-livewire-theme.css",
+    "./themes/marp-langchain-theme.css",
+    "./themes/marp-alpine-theme.css",
+    "./themes/marp-docker-theme.css",
+    "./themes/marp-react-theme.css",
+    "./themes/marp-filament-theme.css"
+  ]
+}
