@@ -28,6 +28,11 @@ svg[data-marp-fitting="svg"] {
   max-height: 580px;
 }
 
+section.lead {
+  border-top: 25px solid var(--font);
+  border-bottom: 25px solid var(--font);
+}
+
 h1,
 h2,
 h3,
